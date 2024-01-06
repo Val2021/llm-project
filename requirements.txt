@@ -1,0 +1,15 @@
+openai
+langchain
+pinecone-client
+python-dotenv
+tiktoken
+wikipedia
+pypdf
+llmx
+ipython
+jupyter-client
+jupyter-console
+jupyter-core
+jupyter
+pypdf
+gradio
